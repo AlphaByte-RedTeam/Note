@@ -1,0 +1,40 @@
+How to learn Programming Quickly:
+
+1. Determine what is your purpose to learn programming? Is it to
+   build an app, build a website, game dev, IT security or what?
+
+2. After that, choose what programming language match your purpose.
+
+3. Choose what IDE suite best to you.
+
+4. Read every documentation of programming language you choose.
+
+5. Learn the basic, master the basic, and then move to next step.
+
+6. Experiment and don't forget to write down every little things you get.
+
+7. Build a project.
+
+8. Read and understand other people's code
+
+9. Cover every gap in your learning
+
+10. Master one programming language, and then you can move to another language.
+
+11. Teach others
+
+Tips:
+
+- set your own goal
+
+- research everything you don't know or ask your friend who is more
+  experienced than you
+
+- don't forget to implement what you learn. DON'T continiously watch or read
+  the tutorial. IMPLEMENT!!
+
+- participate in coding competition or someone else code
+
+- contribute more in open source
+
+- track down your progress

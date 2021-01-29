@@ -1,0 +1,13 @@
+How to be a good programmer OR developer:
+
+1. Create a GitHub profile
+
+2. Contribute more in open source
+
+3. Learn Git and GitHub
+
+4. Build a project
+
+5. Write clean and understandable code
+
+6. Remake your old project
