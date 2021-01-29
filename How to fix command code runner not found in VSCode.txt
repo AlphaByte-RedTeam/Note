@@ -1,0 +1,28 @@
+??????????micromatch???, //The reason for this problem is caused by micromatch,
+?????formulahendry.code-runner-0.9.10/out/src/codeManager.js //PLEASE TRY TO OPEN
+ //Comment out the code in the following location to 
+						disable micromatch. Save and reopen 
+						the editor. problem solved!
+
+line 12:
+//const micromatch = require("micromatch");
+
+line 225~236:
+
+/* if (executor == null) {
+const executorMapByGlob = this._config.get("executorMapByGlob");
+if (executorMapByGlob) {
+const fileBasename = path_1.basename(this._document.fileName);
+for (const glob of Object.keys(executorMapByGlob)) {
+if (micromatch.isMatch(fileBasename, glob)) {
+executor = executorMapByGlob[glob];
+break;
+}
+}
+}
+} */
+
+
+Goto C:\Users\USER\.vscode\extensions\formulahendry.code-runner-0.11.1\out\src
+
+look for the file code manager. comment the code given
