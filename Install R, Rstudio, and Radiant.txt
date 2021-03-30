@@ -1,0 +1,19 @@
+How to install R, RStudio, and Radiant in Windows
+Status: Tested on Windows 10
+
+Requirement: R version 3.4.0 or later		--> https://cran.r-project.org/
+	     RStudio versio 1.1.453 or later    --> https://www.rstudio.com/products/rstudio/download/#download
+
+#3 Install Radiant
+1. Launch RStudio
+2. In the "Console" tab, type: options(repos = c(RSM = "https://radiant-rstats.github.io/minicran", CRAN = "https://cloud.r-project.org"))
+3. Enter
+4. Type: install.packages("radiant")
+
+*To start radiant, type: radiant::radiant()
+*To launch radiant in Rstudio's viewer pane, type: radiant::radiant_viewer()
+*To launch radiant in an Rstudio Window, type: radiant::radiant_window()
+*To easily update radiant and the required packages, install the radiant.update by typing in the console
+1. options(repos = c(RSM = "https://radiant-rstats.github.io/minicran", CRAN = "https://cloud.r-project.org"))
+2. install.packages("radiant.update")
+3. radiant.update::radiant.update()
